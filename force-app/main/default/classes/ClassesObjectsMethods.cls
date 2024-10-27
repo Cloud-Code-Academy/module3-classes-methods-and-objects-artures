@@ -31,9 +31,7 @@
 
 public with sharing class ClassesObjectsMethods {
     
-    /** test commit module 3 another
-     * 
-     * Question 1 
+/** Question 1
      * It initializes a String to "Hello, Salesforce!" and demonstrates usage of
      * the length, substring, and toLowerCase methods of the String class.
      * Example: practiceStringMethods() should return a list like ["17", "Hello", "hello, salesforce!"].
